@@ -80,6 +80,9 @@ void SUMM(int[,] number)
                 {
                     i++;
                 }
+                else{
+                    System.Console.WriteLine();
+                }
                 }
         }
 }
