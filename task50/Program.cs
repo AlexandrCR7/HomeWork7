@@ -18,10 +18,6 @@ int Number2Massive(string arg2)
     }
 }
 
-int m = Number1Massive("Введите число m");
-int n = Number2Massive("Введите число n");
-
-int[,] Matrix = new int[m, n];
 
 void Massive(int[,] Matrix)
 {
@@ -48,14 +44,14 @@ int NumberOfIndex(string arg3)
     }
 }
 
-int x = NumberOfIndex("Введите элемент для поиска в массиве");
 
 void SerchNumber(int[,] numbers)
 {
+    int x = NumberOfIndex("Введите элемент для поиска в массиве");
     int summ = 0;
     for(int i = 0; i < numbers.GetLength(0); i++)
     {
-        for (int j = 0; j < Matrix.GetLength(1); j++)
+        for (int j = 0; j < numbers.GetLength(1); j++)
         {
             if(numbers[i, j] == x)
             {
@@ -76,6 +72,9 @@ else
 
 void Print()
 {
+    int m = Number1Massive("Введите число m");
+    int n = Number2Massive("Введите число n");
+    int[,] Matrix = new int[m, n];
     Massive(Matrix);
     SerchNumber(Matrix);
 }

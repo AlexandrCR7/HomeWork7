@@ -1,0 +1,15 @@
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Seminar 7 HW\AllTasksCase\obj\Debug\net6.0\AllTasksCase.csproj.AssemblyReference.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Seminar 7 HW\AllTasksCase\obj\Debug\net6.0\AllTasksCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Seminar 7 HW\AllTasksCase\obj\Debug\net6.0\AllTasksCase.AssemblyInfoInputs.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Seminar 7 HW\AllTasksCase\obj\Debug\net6.0\AllTasksCase.AssemblyInfo.cs
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Seminar 7 HW\AllTasksCase\obj\Debug\net6.0\AllTasksCase.csproj.CoreCompileInputs.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Seminar 7 HW\AllTasksCase\bin\Debug\net6.0\AllTasksCase.exe
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Seminar 7 HW\AllTasksCase\bin\Debug\net6.0\AllTasksCase.deps.json
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Seminar 7 HW\AllTasksCase\bin\Debug\net6.0\AllTasksCase.runtimeconfig.json
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Seminar 7 HW\AllTasksCase\bin\Debug\net6.0\AllTasksCase.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Seminar 7 HW\AllTasksCase\bin\Debug\net6.0\AllTasksCase.pdb
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Seminar 7 HW\AllTasksCase\obj\Debug\net6.0\AllTasksCase.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Seminar 7 HW\AllTasksCase\obj\Debug\net6.0\refint\AllTasksCase.dll
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Seminar 7 HW\AllTasksCase\obj\Debug\net6.0\AllTasksCase.pdb
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Seminar 7 HW\AllTasksCase\obj\Debug\net6.0\AllTasksCase.genruntimeconfig.cache
+C:\Коммерческий Директор это я\Рабочая тетрадь\Гик\Работа с гит\Seminar 7 HW\AllTasksCase\obj\Debug\net6.0\ref\AllTasksCase.dll

@@ -25,30 +25,30 @@ int Number2Massive(string arg2)
     }
 }
 
-int m = Number1Massive("Введите число m");
-int n = Number2Massive("Введите число n");
-
-void Massive()
+void Massive(double[,] numbers)
 {
-    double[,] Matrix = new double[m, n];
-    {
         Random rnd = new Random();
-        for (int i = 0; i < Matrix.GetLength(0); i++)
+        for (int i = 0; i < numbers.GetLength(0); i++)
         {
-            for (int j = 0; j < Matrix.GetLength(1); j++)
+            for (int j = 0; j < numbers.GetLength(1); j++)
             {
-                Matrix[i, j] = Math.Round(rnd.Next(-100, 100) * 0.1, 2);
-                System.Console.Write($"{Matrix[i, j]} ");
+                numbers[i, j] = Math.Round(rnd.Next(-100, 100) * 0.1, 2);
+                System.Console.Write($"{numbers[i, j]} ");
             }
             System.Console.WriteLine();
         }
     }
+
+
+void Print()
+{
+    int m = Number1Massive("Введите число m");
+    int n = Number2Massive("Введите число n");
+    double[,] Matrix = new double[m, n];
+    Massive(Matrix);
 }
 
-
-
-Massive();
-
+Print();
 
 
 
